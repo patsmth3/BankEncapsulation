@@ -25,7 +25,5 @@ namespace BankEncapsulation
         {
             return _balance;
         }
-       
-        
     }
 }
