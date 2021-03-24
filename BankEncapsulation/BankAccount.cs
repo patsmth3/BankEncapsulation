@@ -6,6 +6,7 @@ namespace BankEncapsulation
     //Created a class called BankAccount
     public class BankAccount
     {
+        // Constructor created when making a class
         public BankAccount()
         {
         }
